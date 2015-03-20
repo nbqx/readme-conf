@@ -1,0 +1,16 @@
+{
+  "name": "readme-conf",
+  "description": "",
+  "version": "0.0.0",
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/readme-conf.git"
+  },
+  "homepage": "https://github.com/nbqx/readme-conf",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-transform": "^1.0.1",
+    "trumpet": "^1.7.0"
+  }
+}
